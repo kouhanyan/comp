@@ -11,7 +11,7 @@
 		<org.springframework-version>3.1.2.RELEASE</org.springframework-version>
 		<org.aspectj-version>1.6.9</org.aspectj-version>
 		<org.slf4j-version>1.6.4</org.slf4j-version>
-		<cxf.version>2.5.10</cxf.version>
+		<cxf.version>2.6.11</cxf.version>
 		<org.poi-version>3.8</org.poi-version>
 
 	</properties>
